@@ -1,0 +1,38 @@
+REACT native Node MongoDB app
+mp1
+crud functions with single file upload 15pts
+crud functions with multiple file uploads 20pts
+mp2
+crud functions with single file upload 15pts
+crud functions with multiple file uploads 20pts
+
+mp3
+review/comment crud 15pts
+review/comment crud with product ratings. 20pts
+
+mp4
+user login/registration CRUD.  15pts
+google/facebook login 20pts
+
+
+term test lab 20pts
+transaction with email detailing the order. only users that ordered the product or service can write a comment/review
+
+q1 15pts
+3 react native charts
+
+q2
+Program execution (errors) 15 pts
+
+q3 15pts
+app add features
+
+u1 20pts
+NODE backend app token generation, api routing  mongodb database, and other functions that the frontend needs 20pts
+
+u2
+User interface design with drawer and bottom/top navigation tabs 20pts
+
+term test lec 20pts
+Functional Requirements completeness 10pts
+code contribution 10pts
